@@ -1,13 +1,28 @@
-# AI Multi-Agent Collaboration Lab
+# LMODEL - AI Multi-Agent Collaboration Lab
 
-A cutting-edge platform where multiple specialized AI agents collaborate, debate, and solve complex problems in real-time. Each agent brings unique capabilities and personalities to deliver comprehensive solutions.
+🚀 **Exploring the Capabilities of Language Models (LM) using NLP & ML**
+
+A cutting-edge platform where multiple specialized AI agents collaborate, debate, and solve complex problems in real-time. This project combines Language Model (LM) implementation & analysis with a comprehensive multi-agent system for advanced AI research and practical applications.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![Next.js](https://img.shields.io/badge/next.js-14+-black)
 
-## 🌟 Features
+## 🌟 Project Overview
+
+This project serves dual purposes:
+1. **Language Model Research & Analysis** - Implementation and evaluation of language models using Jupyter Notebooks
+2. **Multi-Agent Collaboration Platform** - Real-time AI agent interaction system with web interface
+
+## 🎯 Features & Objectives
+
+### Language Model Analysis
+✅ **Model Selection** – Implemented GPT-2 and other models using Hugging Face Transformers  
+✅ **Text Generation** – Evaluates how models generate text and understand context  
+✅ **Performance Analysis** – Tests different prompts and analyzes output quality  
+✅ **Research Questions** – Investigates contextual understanding, creativity, and adaptability  
+✅ **Visualization** – Uses charts and graphs to interpret LM behavior  
 
 ### Multi-Agent Collaboration
 - **OpenAI GPT-4**: Logical, analytical reasoning with structured problem-solving
@@ -16,7 +31,7 @@ A cutting-edge platform where multiple specialized AI agents collaborate, debate
 - **Ollama Local**: Privacy-focused local processing for sensitive data
 - **Stability AI**: Visual artist specializing in image generation and creative visualization
 
-### Advanced Capabilities
+### Advanced Platform Capabilities
 - ✨ Real-time WebSocket communication
 - 🎨 Image generation and visualization
 - 🧠 Agent personality systems
@@ -32,6 +47,24 @@ A cutting-edge platform where multiple specialized AI agents collaborate, debate
 - Real-time conversation visualization
 - Agent status dashboard
 - Professional formal design language
+
+## 🛠️ Tech Stack
+
+**Core Technologies:**
+- Python 🐍
+- Hugging Face Transformers 🤗
+- PyTorch 🔥
+- Jupyter Notebook 📓
+
+**Backend:**
+- FastAPI for high-performance API
+- WebSockets for real-time communication
+- Async/Await for concurrent processing
+
+**Frontend:**
+- Next.js React framework
+- Chakra UI component library
+- Responsive design
 
 ## 🚀 Quick Start
 
