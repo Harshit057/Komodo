@@ -1,0 +1,7 @@
+[
+  { "name": "OpenAI", "color": "blue.400", "avatar": "openai.png" },
+  { "name": "HuggingFace", "color": "purple.400", "avatar": "huggingface.png" },
+  { "name": "Gemini", "color": "teal.400", "avatar": "gemini.png" },
+  { "name": "Ollama", "color": "orange.400", "avatar": "ollama.png" },
+  { "name": "Stability", "color": "pink.400", "avatar": "stability.png" }
+]
